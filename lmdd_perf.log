@@ -1,0 +1,400 @@
+== HW Info ==  
+Processor	: ARMv7 Processor rev 2 (v7l)
+processor	: 0
+BogoMIPS	: 15.60
+Features	: swp half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x0
+CPU part	: 0xd03
+CPU revision	: 2
+
+Hardware	: MT6732
+Revision	: M4650
+Serial		: 0000000000000000
+************* Test Begin Time ************** 
+2015/03/09 周一 18:08:56.33 
+========================== lmdd write test =========================== 
+=== 4k === 
+0.0000 MB in 0.0090 secs, 0.0000 MB/sec
+0.0000 MB in 0.0022 secs, 0.0000 MB/sec
+0.0000 MB in 0.0022 secs, 0.0000 MB/sec
+0.0000 MB in 0.0022 secs, 0.0000 MB/sec
+0.0000 MB in 0.0023 secs, 0.0000 MB/sec
+0.0000 MB in 0.0022 secs, 0.0000 MB/sec
+0.0000 MB in 0.0022 secs, 0.0000 MB/sec
+0.0000 MB in 0.0022 secs, 0.0000 MB/sec
+0.0000 MB in 0.0023 secs, 0.0000 MB/sec
+0.0000 MB in 0.0022 secs, 0.0000 MB/sec
+0.0000 MB in 0.0023 secs, 0.0000 MB/sec
+0.0000 MB in 0.0022 secs, 0.0000 MB/sec
+0.0000 MB in 0.0023 secs, 0.0000 MB/sec
+0.0000 MB in 0.0022 secs, 0.0000 MB/sec
+0.0000 MB in 0.0022 secs, 0.0000 MB/sec
+0.0000 MB in 0.0022 secs, 0.0000 MB/sec
+0.0000 MB in 0.0024 secs, 0.0000 MB/sec
+0.0000 MB in 0.0022 secs, 0.0000 MB/sec
+0.0000 MB in 0.0023 secs, 0.0000 MB/sec
+0.0000 MB in 0.0023 secs, 0.0000 MB/sec
+=== 8k === 
+0.0082 MB in 0.0035 secs, 2.3372 MB/sec
+0.0082 MB in 0.0045 secs, 1.8306 MB/sec
+0.0082 MB in 0.0089 secs, 0.9189 MB/sec
+0.0082 MB in 0.0037 secs, 2.2213 MB/sec
+0.0082 MB in 0.0094 secs, 0.8756 MB/sec
+0.0082 MB in 0.0039 secs, 2.0744 MB/sec
+0.0082 MB in 0.0043 secs, 1.9082 MB/sec
+0.0082 MB in 0.0103 secs, 0.7958 MB/sec
+0.0082 MB in 0.0040 secs, 2.0609 MB/sec
+0.0082 MB in 0.0048 secs, 1.7042 MB/sec
+0.0082 MB in 0.0092 secs, 0.8879 MB/sec
+0.0082 MB in 0.0088 secs, 0.9292 MB/sec
+0.0082 MB in 0.0078 secs, 1.0476 MB/sec
+0.0082 MB in 0.0106 secs, 0.7738 MB/sec
+0.0082 MB in 0.0107 secs, 0.7620 MB/sec
+0.0082 MB in 0.0096 secs, 0.8509 MB/sec
+0.0082 MB in 0.0112 secs, 0.7284 MB/sec
+0.0082 MB in 0.0080 secs, 1.0268 MB/sec
+0.0082 MB in 0.0111 secs, 0.7411 MB/sec
+0.0082 MB in 0.0049 secs, 1.6583 MB/sec
+=== 16k === 
+0.0164 MB in 0.0094 secs, 1.7519 MB/sec
+0.0164 MB in 0.0116 secs, 1.4118 MB/sec
+0.0164 MB in 0.0121 secs, 1.3497 MB/sec
+0.0164 MB in 0.0069 secs, 2.3669 MB/sec
+0.0164 MB in 0.0176 secs, 0.9317 MB/sec
+0.0164 MB in 0.0054 secs, 3.0454 MB/sec
+0.0164 MB in 0.0083 secs, 1.9847 MB/sec
+0.0164 MB in 0.0092 secs, 1.7799 MB/sec
+0.0164 MB in 0.0106 secs, 1.5454 MB/sec
+0.0164 MB in 0.0186 secs, 0.8812 MB/sec
+0.0164 MB in 0.0119 secs, 1.3782 MB/sec
+0.0164 MB in 0.0074 secs, 2.2153 MB/sec
+0.0164 MB in 0.0126 secs, 1.3040 MB/sec
+0.0164 MB in 0.0095 secs, 1.7305 MB/sec
+0.0164 MB in 0.0106 secs, 1.5448 MB/sec
+0.0164 MB in 0.0075 secs, 2.1983 MB/sec
+0.0164 MB in 0.0049 secs, 3.3146 MB/sec
+0.0164 MB in 0.0074 secs, 2.2171 MB/sec
+0.0164 MB in 0.0131 secs, 1.2483 MB/sec
+0.0164 MB in 0.0113 secs, 1.4494 MB/sec
+=== 32k === 
+0.0328 MB in 0.0064 secs, 5.1080 MB/sec
+0.0328 MB in 0.0083 secs, 3.9508 MB/sec
+0.0328 MB in 0.0125 secs, 2.6139 MB/sec
+0.0328 MB in 0.0108 secs, 3.0330 MB/sec
+0.0328 MB in 0.0113 secs, 2.8978 MB/sec
+0.0328 MB in 0.0132 secs, 2.4805 MB/sec
+0.0328 MB in 0.0131 secs, 2.5029 MB/sec
+0.0328 MB in 0.0073 secs, 4.5179 MB/sec
+0.0328 MB in 0.0218 secs, 1.5056 MB/sec
+0.0328 MB in 0.0124 secs, 2.6358 MB/sec
+0.0328 MB in 0.0130 secs, 2.5229 MB/sec
+0.0328 MB in 0.0067 secs, 4.8929 MB/sec
+0.0328 MB in 0.0092 secs, 3.5456 MB/sec
+0.0328 MB in 0.0115 secs, 2.8464 MB/sec
+0.0328 MB in 0.0079 secs, 4.1233 MB/sec
+0.0328 MB in 0.0109 secs, 3.0190 MB/sec
+0.0328 MB in 0.0109 secs, 3.0145 MB/sec
+0.0328 MB in 0.0122 secs, 2.6839 MB/sec
+0.0328 MB in 0.0119 secs, 2.7426 MB/sec
+0.0328 MB in 0.0094 secs, 3.4760 MB/sec
+=== 64K === 
+0.0573 MB in 0.0140 secs, 4.0928 MB/sec
+0.0573 MB in 0.0112 secs, 5.1109 MB/sec
+0.0573 MB in 0.0159 secs, 3.6109 MB/sec
+0.0573 MB in 0.0103 secs, 5.5604 MB/sec
+0.0573 MB in 0.0190 secs, 3.0254 MB/sec
+0.0573 MB in 0.0155 secs, 3.6934 MB/sec
+0.0573 MB in 0.0162 secs, 3.5395 MB/sec
+0.0573 MB in 0.0173 secs, 3.3231 MB/sec
+0.0573 MB in 0.0163 secs, 3.5234 MB/sec
+0.0573 MB in 0.0137 secs, 4.1949 MB/sec
+0.0573 MB in 0.0195 secs, 2.9412 MB/sec
+0.0573 MB in 0.0109 secs, 5.2628 MB/sec
+0.0573 MB in 0.0124 secs, 4.6167 MB/sec
+0.0573 MB in 0.0120 secs, 4.7902 MB/sec
+0.0573 MB in 0.0105 secs, 5.4406 MB/sec
+0.0573 MB in 0.0112 secs, 5.1191 MB/sec
+0.0573 MB in 0.0175 secs, 3.2779 MB/sec
+0.0573 MB in 0.0112 secs, 5.1214 MB/sec
+0.0573 MB in 0.0110 secs, 5.1919 MB/sec
+0.0573 MB in 0.0171 secs, 3.3562 MB/sec
+=== 128K === 
+0.1229 MB in 0.2589 secs, 0.4746 MB/sec
+0.1229 MB in 0.2695 secs, 0.4559 MB/sec
+0.1229 MB in 0.0835 secs, 1.4720 MB/sec
+0.1229 MB in 0.0151 secs, 8.1448 MB/sec
+0.1229 MB in 0.0142 secs, 8.6694 MB/sec
+0.1229 MB in 0.0252 secs, 4.8743 MB/sec
+0.1229 MB in 0.0144 secs, 8.5601 MB/sec
+0.1229 MB in 0.0239 secs, 5.1516 MB/sec
+0.1229 MB in 0.0164 secs, 7.4740 MB/sec
+0.1229 MB in 0.0211 secs, 5.8361 MB/sec
+0.1229 MB in 0.0242 secs, 5.0687 MB/sec
+0.1229 MB in 0.0172 secs, 7.1446 MB/sec
+0.1229 MB in 0.0178 secs, 6.9150 MB/sec
+0.1229 MB in 0.0273 secs, 4.5079 MB/sec
+0.1229 MB in 0.0182 secs, 6.7531 MB/sec
+0.1229 MB in 0.0192 secs, 6.4053 MB/sec
+0.1229 MB in 0.0167 secs, 7.3409 MB/sec
+0.1229 MB in 0.0207 secs, 5.9471 MB/sec
+0.1229 MB in 0.0115 secs, 10.6917 MB/sec
+0.1229 MB in 0.0192 secs, 6.3950 MB/sec
+=== 256k === 
+0.2621 MB in 0.0305 secs, 8.6048 MB/sec
+0.2621 MB in 0.0275 secs, 9.5401 MB/sec
+0.2621 MB in 0.0201 secs, 13.0303 MB/sec
+0.2621 MB in 0.0265 secs, 9.9064 MB/sec
+0.2621 MB in 0.0211 secs, 12.4310 MB/sec
+0.2621 MB in 0.2674 secs, 0.9804 MB/sec
+0.2621 MB in 0.2439 secs, 1.0748 MB/sec
+0.2621 MB in 0.0240 secs, 10.9414 MB/sec
+0.2621 MB in 0.0195 secs, 13.4605 MB/sec
+0.2621 MB in 0.0312 secs, 8.3918 MB/sec
+0.2621 MB in 0.0297 secs, 8.8196 MB/sec
+0.2621 MB in 0.0273 secs, 9.5995 MB/sec
+0.2621 MB in 0.0260 secs, 10.0654 MB/sec
+0.2621 MB in 0.0186 secs, 14.1181 MB/sec
+0.2621 MB in 0.0242 secs, 10.8199 MB/sec
+0.2621 MB in 0.0276 secs, 9.5018 MB/sec
+0.2621 MB in 0.0187 secs, 14.0214 MB/sec
+0.2621 MB in 0.0263 secs, 9.9750 MB/sec
+0.2621 MB in 0.0338 secs, 7.7491 MB/sec
+0.2621 MB in 0.0237 secs, 11.0404 MB/sec
+=== 512k === 
+0.5243 MB in 0.2844 secs, 1.8434 MB/sec
+0.5243 MB in 0.3322 secs, 1.5783 MB/sec
+0.5243 MB in 0.3567 secs, 1.4699 MB/sec
+0.5243 MB in 0.2411 secs, 2.1746 MB/sec
+0.5243 MB in 0.0295 secs, 17.7598 MB/sec
+0.5243 MB in 0.0394 secs, 13.2977 MB/sec
+0.5243 MB in 0.0371 secs, 14.1287 MB/sec
+0.5243 MB in 0.0320 secs, 16.3676 MB/sec
+0.5243 MB in 0.0447 secs, 11.7180 MB/sec
+0.5243 MB in 0.0392 secs, 13.3641 MB/sec
+0.5243 MB in 0.0486 secs, 10.7971 MB/sec
+0.5243 MB in 0.0376 secs, 13.9509 MB/sec
+0.5243 MB in 0.0490 secs, 10.6952 MB/sec
+0.5243 MB in 0.0384 secs, 13.6672 MB/sec
+0.5243 MB in 0.0374 secs, 14.0308 MB/sec
+0.5243 MB in 0.0304 secs, 17.2690 MB/sec
+0.5243 MB in 0.3643 secs, 1.4390 MB/sec
+0.5243 MB in 0.3128 secs, 1.6761 MB/sec
+0.5243 MB in 0.3607 secs, 1.4537 MB/sec
+0.5243 MB in 0.2686 secs, 1.9517 MB/sec
+=== 1m === 
+1.0486 MB in 0.0648 secs, 16.1767 MB/sec
+1.0486 MB in 0.0686 secs, 15.2838 MB/sec
+1.0486 MB in 0.0742 secs, 14.1378 MB/sec
+1.0486 MB in 0.4643 secs, 2.2585 MB/sec
+1.0486 MB in 0.2245 secs, 4.6709 MB/sec
+1.0486 MB in 0.3564 secs, 2.9419 MB/sec
+1.0486 MB in 0.5695 secs, 1.8411 MB/sec
+1.0486 MB in 0.1946 secs, 5.3881 MB/sec
+1.0486 MB in 0.0855 secs, 12.2573 MB/sec
+1.0486 MB in 0.0712 secs, 14.7208 MB/sec
+1.0486 MB in 0.0585 secs, 17.9277 MB/sec
+1.0486 MB in 0.0781 secs, 13.4242 MB/sec
+1.0486 MB in 0.0781 secs, 13.4262 MB/sec
+1.0486 MB in 0.0758 secs, 13.8263 MB/sec
+1.0486 MB in 0.0609 secs, 17.2090 MB/sec
+1.0486 MB in 0.0792 secs, 13.2433 MB/sec
+1.0486 MB in 0.0755 secs, 13.8820 MB/sec
+1.0486 MB in 0.0665 secs, 15.7657 MB/sec
+1.0486 MB in 0.0602 secs, 17.4170 MB/sec
+1.0486 MB in 0.0727 secs, 14.4186 MB/sec
+=========================== lmdd read test ============================ 
+=== 4k === 
+0.0000 MB in 0.0000 secs, 0.0000 MB/sec
+0.0000 MB in 0.0000 secs, 0.0000 MB/sec
+0.0000 MB in 0.0000 secs, 0.0000 MB/sec
+0.0000 MB in 0.0000 secs, 0.0000 MB/sec
+0.0000 MB in 0.0000 secs, 0.0000 MB/sec
+0.0000 MB in 0.0000 secs, 0.0000 MB/sec
+0.0000 MB in 0.0000 secs, 0.0000 MB/sec
+0.0000 MB in 0.0000 secs, 0.0000 MB/sec
+0.0000 MB in 0.0000 secs, 0.0000 MB/sec
+0.0000 MB in 0.0000 secs, 0.0000 MB/sec
+0.0000 MB in 0.0000 secs, 0.0000 MB/sec
+0.0000 MB in 0.0000 secs, 0.0000 MB/sec
+0.0000 MB in 0.0000 secs, 0.0000 MB/sec
+0.0000 MB in 0.0000 secs, 0.0000 MB/sec
+0.0000 MB in 0.0000 secs, 0.0000 MB/sec
+0.0000 MB in 0.0000 secs, 0.0000 MB/sec
+0.0000 MB in 0.0000 secs, 0.0000 MB/sec
+0.0000 MB in 0.0000 secs, 0.0000 MB/sec
+0.0000 MB in 0.0000 secs, 0.0000 MB/sec
+0.0000 MB in 0.0000 secs, 0.0000 MB/sec
+=== 8k === 
+0.0082 MB in 0.0004 secs, 19.8354 MB/sec
+0.0082 MB in 0.0004 secs, 21.0051 MB/sec
+0.0082 MB in 0.0004 secs, 22.2609 MB/sec
+0.0082 MB in 0.0004 secs, 22.2609 MB/sec
+0.0082 MB in 0.0004 secs, 20.8980 MB/sec
+0.0082 MB in 0.0004 secs, 22.1405 MB/sec
+0.0082 MB in 0.0004 secs, 21.8453 MB/sec
+0.0082 MB in 0.0004 secs, 22.5055 MB/sec
+0.0082 MB in 0.0004 secs, 21.3890 MB/sec
+0.0082 MB in 0.0004 secs, 21.5579 MB/sec
+0.0082 MB in 0.0004 secs, 21.7872 MB/sec
+0.0082 MB in 0.0000 secs, 455.1111 MB/sec
+0.0082 MB in 0.0000 secs, 409.6000 MB/sec
+0.0082 MB in 0.0004 secs, 22.0215 MB/sec
+0.0082 MB in 0.0004 secs, 21.7294 MB/sec
+0.0082 MB in 0.0000 secs, 409.6000 MB/sec
+0.0082 MB in 0.0000 secs, 390.0952 MB/sec
+0.0082 MB in 0.0004 secs, 21.3890 MB/sec
+0.0082 MB in 0.0004 secs, 21.6148 MB/sec
+0.0082 MB in 0.0004 secs, 22.1405 MB/sec
+=== 16k === 
+0.0164 MB in 0.0005 secs, 32.8996 MB/sec
+0.0164 MB in 0.0005 secs, 34.5654 MB/sec
+0.0164 MB in 0.0005 secs, 36.0088 MB/sec
+0.0164 MB in 0.0005 secs, 31.4472 MB/sec
+0.0164 MB in 0.0004 secs, 37.0679 MB/sec
+0.0164 MB in 0.0005 secs, 34.0624 MB/sec
+0.0164 MB in 0.0005 secs, 34.2046 MB/sec
+0.0164 MB in 0.0005 secs, 32.9658 MB/sec
+0.0164 MB in 0.0005 secs, 34.2762 MB/sec
+0.0164 MB in 0.0005 secs, 35.2344 MB/sec
+0.0164 MB in 0.0005 secs, 33.1660 MB/sec
+0.0164 MB in 0.0005 secs, 34.5654 MB/sec
+0.0164 MB in 0.0006 secs, 29.4676 MB/sec
+0.0164 MB in 0.0005 secs, 34.7119 MB/sec
+0.0164 MB in 0.0005 secs, 34.6385 MB/sec
+0.0164 MB in 0.0005 secs, 35.3103 MB/sec
+0.0164 MB in 0.0005 secs, 33.7814 MB/sec
+0.0164 MB in 0.0005 secs, 35.1588 MB/sec
+0.0164 MB in 0.0005 secs, 35.9298 MB/sec
+0.0164 MB in 0.0005 secs, 35.6950 MB/sec
+=== 32k === 
+0.0328 MB in 0.0009 secs, 35.7339 MB/sec
+0.0328 MB in 0.0009 secs, 35.2723 MB/sec
+0.0328 MB in 0.0009 secs, 36.6532 MB/sec
+0.0328 MB in 0.0009 secs, 35.5787 MB/sec
+0.0328 MB in 0.0010 secs, 33.2670 MB/sec
+0.0328 MB in 0.0005 secs, 65.5360 MB/sec
+0.0328 MB in 0.0005 secs, 67.9834 MB/sec
+0.0328 MB in 0.0010 secs, 34.2403 MB/sec
+0.0328 MB in 0.0009 secs, 35.6174 MB/sec
+0.0328 MB in 0.0009 secs, 36.0881 MB/sec
+0.0328 MB in 0.0009 secs, 34.5654 MB/sec
+0.0328 MB in 0.0009 secs, 36.0881 MB/sec
+0.0328 MB in 0.0009 secs, 35.6174 MB/sec
+0.0328 MB in 0.0009 secs, 35.1588 MB/sec
+0.0328 MB in 0.0009 secs, 34.6751 MB/sec
+0.0328 MB in 0.0009 secs, 35.8905 MB/sec
+0.0328 MB in 0.0009 secs, 35.8905 MB/sec
+0.0328 MB in 0.0009 secs, 34.8225 MB/sec
+0.0328 MB in 0.0009 secs, 35.5401 MB/sec
+0.0328 MB in 0.0009 secs, 35.8120 MB/sec
+=== 64K === 
+0.0573 MB in 0.0013 secs, 43.9081 MB/sec
+0.0573 MB in 0.0015 secs, 38.5636 MB/sec
+0.0573 MB in 0.0015 secs, 38.3829 MB/sec
+0.0573 MB in 0.0015 secs, 38.3829 MB/sec
+0.0573 MB in 0.0015 secs, 38.3059 MB/sec
+0.0573 MB in 0.0015 secs, 37.8508 MB/sec
+0.0573 MB in 0.0010 secs, 59.1175 MB/sec
+0.0573 MB in 0.0010 secs, 58.7541 MB/sec
+0.0573 MB in 0.0010 secs, 59.5472 MB/sec
+0.0573 MB in 0.0015 secs, 38.2804 MB/sec
+0.0573 MB in 0.0015 secs, 38.1023 MB/sec
+0.0573 MB in 0.0015 secs, 38.3059 MB/sec
+0.0573 MB in 0.0016 secs, 36.7590 MB/sec
+0.0573 MB in 0.0015 secs, 39.2230 MB/sec
+0.0573 MB in 0.0015 secs, 38.4343 MB/sec
+0.0573 MB in 0.0015 secs, 37.9510 MB/sec
+0.0573 MB in 0.0015 secs, 37.4797 MB/sec
+0.0573 MB in 0.0015 secs, 38.9830 MB/sec
+0.0573 MB in 0.0017 secs, 32.9185 MB/sec
+0.0573 MB in 0.0015 secs, 39.3306 MB/sec
+=== 128K === 
+0.1229 MB in 0.0025 secs, 49.4686 MB/sec
+0.1229 MB in 0.0025 secs, 49.6485 MB/sec
+0.1229 MB in 0.0025 secs, 49.8297 MB/sec
+0.1229 MB in 0.0025 secs, 50.0326 MB/sec
+0.1229 MB in 0.0025 secs, 49.6485 MB/sec
+0.1229 MB in 0.0025 secs, 49.7289 MB/sec
+0.1229 MB in 0.0025 secs, 49.0931 MB/sec
+0.1229 MB in 0.0026 secs, 47.7946 MB/sec
+0.1229 MB in 0.0025 secs, 49.5684 MB/sec
+0.1229 MB in 0.0025 secs, 49.9106 MB/sec
+0.1229 MB in 0.0025 secs, 49.5284 MB/sec
+0.1229 MB in 0.0025 secs, 49.5284 MB/sec
+0.1229 MB in 0.0024 secs, 50.2988 MB/sec
+0.1229 MB in 0.0025 secs, 49.6686 MB/sec
+0.1229 MB in 0.0025 secs, 49.9106 MB/sec
+0.1229 MB in 0.0025 secs, 49.4487 MB/sec
+0.1229 MB in 0.0025 secs, 49.4288 MB/sec
+0.1229 MB in 0.0025 secs, 49.4885 MB/sec
+0.1229 MB in 0.0025 secs, 49.3098 MB/sec
+0.1229 MB in 0.0025 secs, 50.0122 MB/sec
+=== 256k === 
+0.2621 MB in 0.0033 secs, 78.3455 MB/sec
+0.2621 MB in 0.0034 secs, 76.1604 MB/sec
+0.2621 MB in 0.0039 secs, 67.6850 MB/sec
+0.2621 MB in 0.0034 secs, 76.4491 MB/sec
+0.2621 MB in 0.0035 secs, 75.8958 MB/sec
+0.2621 MB in 0.0035 secs, 75.8958 MB/sec
+0.2621 MB in 0.0035 secs, 75.8958 MB/sec
+0.2621 MB in 0.0035 secs, 75.7861 MB/sec
+0.2621 MB in 0.0035 secs, 75.9397 MB/sec
+0.2621 MB in 0.0035 secs, 75.6767 MB/sec
+0.2621 MB in 0.0034 secs, 76.1383 MB/sec
+0.2621 MB in 0.0035 secs, 75.5023 MB/sec
+0.2621 MB in 0.0034 secs, 76.2490 MB/sec
+0.2621 MB in 0.0035 secs, 75.7423 MB/sec
+0.2621 MB in 0.0034 secs, 76.1383 MB/sec
+0.2621 MB in 0.0035 secs, 75.5676 MB/sec
+0.2621 MB in 0.0035 secs, 75.4371 MB/sec
+0.2621 MB in 0.0034 secs, 76.2268 MB/sec
+0.2621 MB in 0.0034 secs, 76.2047 MB/sec
+0.2621 MB in 0.0034 secs, 76.0940 MB/sec
+=== 512k === 
+0.5243 MB in 0.0054 secs, 96.8035 MB/sec
+0.5243 MB in 0.0054 secs, 97.1263 MB/sec
+0.5243 MB in 0.0054 secs, 96.9647 MB/sec
+0.5243 MB in 0.0054 secs, 97.0904 MB/sec
+0.5243 MB in 0.0054 secs, 97.5601 MB/sec
+0.5243 MB in 0.0054 secs, 96.7857 MB/sec
+0.5243 MB in 0.0054 secs, 97.1804 MB/sec
+0.5243 MB in 0.0054 secs, 97.1443 MB/sec
+0.5243 MB in 0.0054 secs, 97.3789 MB/sec
+0.5243 MB in 0.0056 secs, 94.4153 MB/sec
+0.5243 MB in 0.0054 secs, 97.4151 MB/sec
+0.5243 MB in 0.0054 secs, 96.7500 MB/sec
+0.5243 MB in 0.0054 secs, 96.2173 MB/sec
+0.5243 MB in 0.0054 secs, 97.2164 MB/sec
+0.5243 MB in 0.0054 secs, 97.1804 MB/sec
+0.5243 MB in 0.0054 secs, 97.5057 MB/sec
+0.5243 MB in 0.0054 secs, 97.0544 MB/sec
+0.5243 MB in 0.0054 secs, 97.2525 MB/sec
+0.5243 MB in 0.0054 secs, 97.0724 MB/sec
+0.5243 MB in 0.0054 secs, 97.1984 MB/sec
+=== 1m === 
+1.0486 MB in 0.0084 secs, 124.5044 MB/sec
+1.0486 MB in 0.0084 secs, 124.8156 MB/sec
+1.0486 MB in 0.0085 secs, 123.7988 MB/sec
+1.0486 MB in 0.0085 secs, 123.4636 MB/sec
+1.0486 MB in 0.0084 secs, 124.1653 MB/sec
+1.0486 MB in 0.0085 secs, 123.2459 MB/sec
+1.0486 MB in 0.0085 secs, 123.8573 MB/sec
+1.0486 MB in 0.0085 secs, 123.7696 MB/sec
+1.0486 MB in 0.0085 secs, 123.2024 MB/sec
+1.0486 MB in 0.0085 secs, 124.0185 MB/sec
+1.0486 MB in 0.0085 secs, 123.7550 MB/sec
+1.0486 MB in 0.0084 secs, 124.6969 MB/sec
+1.0486 MB in 0.0083 secs, 125.8946 MB/sec
+1.0486 MB in 0.0083 secs, 126.1824 MB/sec
+1.0486 MB in 0.0084 secs, 124.1359 MB/sec
+1.0486 MB in 0.0084 secs, 124.2389 MB/sec
+1.0486 MB in 0.0084 secs, 124.2978 MB/sec
+1.0486 MB in 0.0085 secs, 123.8866 MB/sec
+1.0486 MB in 0.0084 secs, 124.5932 MB/sec
+1.0486 MB in 0.0085 secs, 123.9598 MB/sec
+成功: 已终止进程 "adb.exe"，其 PID 为 3384。
+成功: 已终止进程 "adb.exe"，其 PID 为 2752。
+*************** Test End Time **************** 
+2015/03/09 周一 18:09:43.61 
